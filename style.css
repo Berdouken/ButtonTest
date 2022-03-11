@@ -1,0 +1,25 @@
+/*Your CSS code goes below this line*/
+body{
+  background-color: coral;
+  color: white;
+  text-align: center;
+}
+button{
+  width: 150px;
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+
+
+.one { 
+  background-color: green;
+}
+.two { 
+} 
+.three { 
+  background-color: purple;
+} 
+
